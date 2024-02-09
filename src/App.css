@@ -50,7 +50,10 @@ textarea {
   padding-bottom: 10px;
   margin-bottom: 10px;
 }
-
+.DiaryItem .info div {
+  display: flex;
+  justify-content: space-between;
+}
 .DiaryItem .date {
   color: gray;
 }
